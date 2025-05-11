@@ -1,0 +1,101 @@
+Site,Mps,Mp_concentration,Antibiotic,Antibiotic_concentartion,Diameter,Density,Molar_Refractivity,Polar_SSA,Polarizability,Surface_Tension,Molar_Volume,Mass,Contact_Angle,Duration,Temperature,Salinity,pH,Other_pollutants,Abundance,Broadband
+wastewater,CK,0,TCS,500,100,0,0,0,0,0,0,0,0,28,25,0,7.6,NO,0.01,Firmicutes
+freshwater,PVC,1000,TC,1000,50,1.35,15.9,0,6.3,17.5,68,62.5,360,28,25,0,7.2,NO,0.01,Bacteroidetes
+wastewater,CK,0,TCS,500,100,0,0,0,0,0,0,0,0,14,25,0,7.6,NO,0.02,Bacteroidetes
+soil,CK,0,CIP,1000,0,0,0,0,0,0,0,0,0,35,30,0,7.2,NO,0.02,Bacteroidetes
+freshwater,PE,300,SMX,1000,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,14,25,0,7.2,Zn,0.02,Bacteroidetes
+freshwater,PE,300,SMX,1000,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,14,25,0,7.2,Zn,0.02,Actinobacteria
+freshwater,PE,300,TC,1000,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,14,25,0,7.2,Zn,0.02,Bacteroidetes
+soil,PE,1000,CK,0,150,0.96,10.7,0,4.2,9.7,58.1,28.05,360,35,30,0,7.2,NO,0.02,Bacteroidetes
+wastewater,PVC,1000,TCS,500,100,1.35,15.9,0,6.3,17.5,68,62.5,360,14,25,0,7.6,NO,0.02,Bacteroidetes
+soil,CK,0,CIP,1000,0,0,0,0,0,0,0,0,0,35,30,0,7.2,NO,0.03,Gemmatimonadetes
+wastewater,PA,1000,TCS,500,100,1.15,31.1,29,12.3,30.4,116.7,113.16,360,14,25,0,7.6,NO,0.03,Bacteroidetes
+wastewater,PE,1000,TCS,500,100,0.96,10.7,0,4.2,9.7,58.1,28.05,360,14,25,0,7.6,NO,0.03,Bacteroidetes
+soil,PE,1000,CK,0,150,0.96,10.7,0,4.2,9.7,58.1,28.05,360,35,30,0,7.2,NO,0.03,Gemmatimonadetes
+intestinal tract ,PP,1000,CK,0,200,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,6.9,NO,0.03,Actinobacteria
+freshwater,PP,1000,TC,1000,50,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,7.2,NO,0.03,Actinobacteria
+wastewater,PS,1000,TCS,500,100,0.9,15.9,0,6.3,17.5,68,62.5,90,28,25,0,7.6,NO,0.03,Firmicutes
+wastewater,PS,1000,TCS,500,100,0.9,15.9,0,6.3,17.5,68,62.5,90,14,25,0,7.6,NO,0.03,Bacteroidetes
+soil,CK,0,CK,0,0,0,0,0,0,0,0,0,0,42,25,0,7.2,NO,0.04,Bacteroidetes
+intestinal tract ,CK,0,SMX,100,0,0,0,0,0,0,0,0,0,28,21,0,7.2,NO,0.04,Proteobacteria
+freshwater,CK,0,TC,1000,0,0,0,0,0,0,0,0,0,28,25,0,7.2,NO,0.04,Actinobacteria
+soil,PE,150,CK,0,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,42,25,0,7.2,NO,0.04,Bacteroidetes
+wastewater,PE,1000,TCS,500,100,0.96,10.7,0,4.2,9.7,58.1,28.05,360,28,25,0,7.6,NO,0.04,Bacteroidetes
+intestinal tract ,PP,1000,ENR,500,200,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,6.9,NO,0.04,Firmicutes
+intestinal tract ,PS,1000,ENR,500,200,0.9,37.2,0,14.7,31,115.4,104.15,360,28,25,0,6.9,NO,0.04,Firmicutes
+soil,CK,0,TC,150,0,0,0,0,0,0,0,0,0,42,25,0,7.2,NO,0.05,Bacteroidetes
+intestinal tract ,CK,0,ENR,500,0,0,0,0,0,0,0,0,0,28,25,0,6.9,NO,0.05,Firmicutes
+wastewater,PE,1000,TCS,500,100,0.96,10.7,0,4.2,9.7,58.1,28.05,360,28,25,0,7.6,NO,0.05,Actinobacteria
+soil,PE,1000,CIP,1000,150,0.96,10.7,0,4.2,9.7,58.1,28.05,360,35,30,0,7.2,NO,0.05,Bacteroidetes
+intestinal tract ,PET,500,CK,0,63,0.6,15.7,0,6.2,13.6,73.1,42.08,90,28,21,0,7.2,NO,0.05,Proteobacteria
+freshwater,PLA,1000,TC,1000,50,1.2,31.3,53,12.4,31.4,121.5,144.13,60,28,25,0,7.2,NO,0.05,Actinobacteria
+sediment,PLA,1000,TC,1000,50,1.2,31.3,53,12.4,31.4,121.5,144.13,60,28,25,0,7.2,NO,0.05,Bacteroidetes
+freshwater,PP,1000,TC,1000,50,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,7.2,NO,0.05,Actinobacteria
+sediment,PP,1000,TC,1000,50,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,7.2,NO,0.05,Bacteroidetes
+sediment,PVC,1000,TC,1000,50,1.35,15.9,0,6.3,17.5,68,62.5,360,28,25,0,7.2,NO,0.05,Bacteroidetes
+wastewater,CK,0,TCS,500,100,0,0,0,0,0,0,0,0,28,25,0,7.6,NO,0.06,Actinobacteria
+freshwater,CK,0,TC,1000,0,0,0,0,0,0,0,0,0,28,25,0,7.2,NO,0.06,Bacteroidetes
+soil,PE,150,TC,150,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,42,25,0,7.2,NO,0.06,Bacteroidetes
+soil,PE,1000,CIP,1000,150,0.96,10.7,0,4.2,9.7,58.1,28.05,360,35,30,0,7.2,NO,0.06,Gemmatimonadetes
+intestinal tract ,PET,500,SMX,100,63,0.6,15.7,0,6.2,13.6,73.1,42.08,90,28,21,0,7.2,NO,0.06,Actinobacteria
+freshwater,PLA,1000,TC,1000,50,1.2,31.3,53,12.4,31.4,121.5,144.13,60,28,25,0,7.2,NO,0.06,Bacteroidetes
+freshwater,PLA,1000,TC,1000,50,1.2,31.3,53,12.4,31.4,121.5,144.13,60,28,25,0,7.2,NO,0.06,Actinobacteria
+freshwater,PLA,1000,TC,1000,50,1.2,31.3,53,12.4,31.4,121.5,144.13,60,28,25,0,7.2,NO,0.06,Bacteroidetes
+freshwater,PP,1000,TC,1000,50,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,7.2,NO,0.06,Bacteroidetes
+wastewater,PS,1000,TCS,500,100,0.9,15.9,0,6.3,17.5,68,62.5,90,28,25,0,7.6,NO,0.06,Actinobacteria
+wastewater,PS,1000,TCS,500,100,0.9,15.9,0,6.3,17.5,68,62.5,90,28,25,0,7.6,NO,0.06,Bacteroidetes
+wastewater,PS,1000,TCS,500,100,0.9,15.9,0,6.3,17.5,68,62.5,90,14,25,0,7.6,NO,0.06,Actinobacteria
+wastewater,PVC,1000,TCS,500,100,1.35,15.9,0,6.3,17.5,68,62.5,360,14,25,0,7.6,NO,0.06,Actinobacteria
+freshwater,PVC,1000,TC,1000,50,1.35,15.9,0,6.3,17.5,68,62.5,360,28,25,0,7.2,NO,0.06,Bacteroidetes
+freshwater,PVC,1000,TC,1000,50,1.35,15.9,0,6.3,17.5,68,62.5,360,28,25,0,7.2,NO,0.06,Actinobacteria
+freshwater,PE,300,CK,0,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,14,25,0,7.2,Zn,0.063,Bacteroidetes
+soil,CK,0,CIP,1000,0,0,0,0,0,0,0,0,0,35,30,0,7.2,NO,0.07,Acidobacteria
+wastewater,PA,1000,TCS,500,100,1.15,31.1,29,12.3,30.4,116.7,113.16,360,14,25,0,7.6,NO,0.07,Actinobacteria
+wastewater,PA,1000,TCS,500,100,1.15,31.1,29,12.3,30.4,116.7,113.16,360,14,25,0,7.6,NO,0.07,Firmicutes
+intestinal tract ,PET,500,CK,0,63,0.6,15.7,0,6.2,13.6,73.1,42.08,90,28,21,0,7.2,NO,0.07,Actinobacteria
+intestinal tract ,PP,1000,ENR,500,200,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,6.9,NO,0.07,Actinobacteria
+freshwater,PP,1000,TC,1000,50,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,7.2,NO,0.07,Chloroflexi
+soil,CK,0,TC,150,0,0,0,0,0,0,0,0,0,42,25,0,7.2,NO,0.08,Chloroflexi
+wastewater,CK,0,TCS,500,100,0,0,0,0,0,0,0,0,14,25,0,7.6,NO,0.08,Firmicutes
+soil,PE,150,CK,0,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,42,25,0,7.2,NO,0.08,Chloroflexi
+soil,PE,150,TC,150,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,42,25,0,7.2,NO,0.08,Chloroflexi
+soil,PE,1000,CIP,1000,150,0.96,10.7,0,4.2,9.7,58.1,28.05,360,35,30,0,7.2,NO,0.08,Acidobacteria
+freshwater,PLA,1000,TC,1000,50,1.2,31.3,53,12.4,31.4,121.5,144.13,60,28,25,0,7.2,NO,0.08,Chloroflexi
+freshwater,PP,1000,TC,1000,50,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,7.2,NO,0.08,Bacteroidetes
+wastewater,PVC,1000,TCS,500,100,1.35,15.9,0,6.3,17.5,68,62.5,360,14,25,0,7.6,NO,0.08,Firmicutes
+freshwater,PVC,1000,TC,1000,50,1.35,15.9,0,6.3,17.5,68,62.5,360,28,25,0,7.2,NO,0.08,Acidobacteria
+soil,CK,0,CK,0,0,0,0,0,0,0,0,0,0,42,25,0,7.2,NO,0.09,Chloroflexi
+soil,CK,0,TC,150,0,0,0,0,0,0,0,0,0,42,25,0,7.2,NO,0.09,Acidobacteria
+wastewater,CK,0,TCS,500,100,0,0,0,0,0,0,0,0,14,25,0,7.6,NO,0.09,Actinobacteria
+soil,PE,500,TC,20,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,7,15,0,8.3,NO,0.09,Proteobacteria
+soil,PE,1000,CK,0,150,0.96,10.7,0,4.2,9.7,58.1,28.05,360,35,30,0,7.2,NO,0.09,Acidobacteria
+freshwater,PP,1000,TC,1000,50,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,7.2,NO,0.09,Acidobacteria
+wastewater,PS,1000,TCS,500,100,0.9,15.9,0,6.3,17.5,68,62.5,90,14,25,0,7.6,NO,0.09,Firmicutes
+freshwater,PVC,1000,TC,1000,50,1.35,15.9,0,6.3,17.5,68,62.5,360,28,25,0,7.2,NO,0.09,Chloroflexi
+soil,CK,0,TC,20,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,7,15,0,8.3,NO,0.1,Actinobacteriota
+soil,PE,150,CK,0,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,42,25,0,7.2,NO,0.1,Acidobacteria
+wastewater,PE,1000,TCS,500,100,0.96,10.7,0,4.2,9.7,58.1,28.05,360,14,25,0,7.6,NO,0.1,Firmicutes
+wastewater,CK,0,TC,100,0,0,0,0,0,0,0,0,0,16,25,0,7.5,NO,0.11,Proteobacteria
+wastewater,CK,0,TCS,500,100,0,0,0,0,0,0,0,0,28,25,0,7.6,NO,0.11,Bacteroidetes
+freshwater,CK,0,TC,1000,0,0,0,0,0,0,0,0,0,28,25,0,7.2,NO,0.11,Chloroflexi
+wastewater,PE,1000,TCS,500,100,0.96,10.7,0,4.2,9.7,58.1,28.05,360,14,25,0,7.6,NO,0.11,Actinobacteria
+sediment,PLA,1000,TC,1000,50,1.2,31.3,53,12.4,31.4,121.5,144.13,60,28,25,0,7.2,NO,0.11,Actinobacteria
+freshwater,PLA,1000,TC,1000,50,1.2,31.3,53,12.4,31.4,121.5,144.13,60,28,25,0,7.2,NO,0.11,Acidobacteria
+intestinal tract ,PP,1000,CK,0,200,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,6.9,NO,0.11,Firmicutes
+sediment,PP,1000,TC,1000,50,0.88,15.7,0,6.2,13.6,73.1,42.08,360,28,25,0,7.2,NO,0.11,Actinobacteria
+intestinal tract ,CK,0,SMX,100,0,0,0,0,0,0,0,0,0,28,21,0,7.2,NO,0.12,Actinobacteria
+intestinal tract ,PET,500,SMX,100,63,0.6,15.7,0,6.2,13.6,73.1,42.08,90,28,21,0,7.2,NO,0.12,Proteobacteria
+wastewater,PVC,0.25,TC,100,177,0.9,15.9,0,6.3,17.5,68,62.5,360,16,25,0,7.5,NO,0.12,Proteobacteria
+wastewater,PVC,1000,TCS,500,100,1.35,15.9,0,6.3,17.5,68,62.5,360,14,25,0,7.6,NO,0.12,Chloroflexi
+sediment,PVC,1000,TC,1000,50,1.35,15.9,0,6.3,17.5,68,62.5,360,28,25,0,7.2,NO,0.12,Actinobacteria
+soil,CK,0,CK,0,0,0,0,0,0,0,0,0,0,42,25,0,7.2,NO,0.13,Acidobacteria
+soil,CK,0,CIP,1000,0,0,0,0,0,0,0,0,0,35,30,0,7.2,NO,0.13,Chloroflexi
+soil,PE,150,TC,150,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,42,25,0,7.2,NO,0.13,Acidobacteria
+intestinal tract ,PS,1000,ENR,500,200,0.9,37.2,0,14.7,31,115.4,104.15,360,28,25,0,6.9,NO,0.13,Actinobacteria
+freshwater,CK,0,TC,1000,0,0,0,0,0,0,0,0,0,28,25,0,7.2,NO,0.14,Firmicutes
+wastewater,PA,1000,TCS,500,100,1.15,31.1,29,12.3,30.4,116.7,113.16,360,14,25,0,7.6,NO,0.14,Chloroflexi
+freshwater,PE,300,TC,1000,177,0.96,10.7,0,4.2,9.7,58.1,28.05,360,14,25,0,7.2,Zn,0.15,Actinobacteria
+intestinal tract ,PS,1000,CK,0,200,0.9,37.2,0,14.7,31,115.4,104.15,360,28,25,0,6.9,NO,0.15,Firmicutes
+freshwater,PVC,1000,TC,1000,50,1.35,15.9,0,6.3,17.5,68,62.5,360,28,25,0,7.2,NO,0.15,Actinobacteria
+freshwater,PVC,1000,TC,1000,50,1.35,15.9,0,6.3,17.5,68,62.5,360,28,25,0,7.2,NO,0.15,Chloroflexi
+sediment,PLA,1000,TC,1000,50,1.2,31.3,53,12.4,31.4,121.5,144.13,60,28,25,0,7.2,NO,0.16,Acidobacteria
